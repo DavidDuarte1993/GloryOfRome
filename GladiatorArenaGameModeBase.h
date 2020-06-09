@@ -1,0 +1,12 @@
+#pragma once
+
+#include "CoreMinimal.h"
+#include "GameFramework/GameModeBase.h"
+#include "GladiatorArenaGameModeBase.generated.h"
+
+UCLASS()
+class GLADIATORARENA_API AGladiatorArenaGameModeBase : public AGameModeBase
+{
+	GENERATED_BODY()
+	
+};
